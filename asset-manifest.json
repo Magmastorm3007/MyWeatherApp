@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MyWeatherApp/static/css/main.040e3028.css",
+    "main.js": "/MyWeatherApp/static/js/main.5b7dc90a.js",
+    "static/js/787.6e67ebe8.chunk.js": "/MyWeatherApp/static/js/787.6e67ebe8.chunk.js",
+    "static/media/snowy.webp": "/MyWeatherApp/static/media/snowy.f0cd656554bcd6ed6e4f.webp",
+    "static/media/sun.webp": "/MyWeatherApp/static/media/sun.b8ca2aeecaba91db9486.webp",
+    "static/media/warm.jpg": "/MyWeatherApp/static/media/warm.a7f83012aa30f33e19ee.jpg",
+    "static/media/cold.jpg": "/MyWeatherApp/static/media/cold.a3f3f533d3caea133b5f.jpg",
+    "static/media/weather.jpg": "/MyWeatherApp/static/media/weather.230126fbd6d486e25634.jpg",
+    "index.html": "/MyWeatherApp/index.html",
+    "main.040e3028.css.map": "/MyWeatherApp/static/css/main.040e3028.css.map",
+    "main.5b7dc90a.js.map": "/MyWeatherApp/static/js/main.5b7dc90a.js.map",
+    "787.6e67ebe8.chunk.js.map": "/MyWeatherApp/static/js/787.6e67ebe8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.040e3028.css",
+    "static/js/main.5b7dc90a.js"
+  ]
+}
